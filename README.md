@@ -1,1 +1,1 @@
-# Vini
+Ola meu nome e Vinicius, eu sou estudante da escola Magdalena, estou cursando o ultimo ano do E.M e utilizo o alura para mostrar os meus projetos e progressos em aulas, atualmente pretendo seguir na area  de tecnologia, estou gostando muito dessa experiencia com o alura, github e com todas as ferramentas disponibilizadas para o estudo.
